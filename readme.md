@@ -1,6 +1,6 @@
 # Pesquisas em Red Team
 
-Repositório de **provas de conceito (PoCs)** e pesquisas em segurança ofensiva, mantido por [Fernando Bortotti](https://github.com/fernandobortotti) — *Físico | Pentester | Bug Hunter*.
+Repositório de **provas de conceito (PoCs)** e pesquisas em segurança ofensiva, mantido por [Fernando Bortotti](https://github.com/fernandobortotti).
 
 O foco aqui é o **código**: exploits, scripts e demonstrações práticas que comprovam falhas de segurança. A análise técnica aprofundada — o "porquê" e o "como" por trás de cada PoC — quando existir, fica no blog:
 
